@@ -1,0 +1,29 @@
+body {
+    background-color: #F1E9DB;
+    font-family: 'Cormorant SC', serif;
+}
+#profilepic {
+    border-radius: 50%;
+ 
+}
+#about {
+    margin: 100px;
+
+}
+#headings{
+    padding-left: 4rem;
+}
+#heading1{
+    letter-spacing: 1.5rem;
+    padding-left: 2rem;
+    font-weight: bold;
+}
+#heading2 {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    border-bottom: solid #DFD8CB 0.7rem; 
+    border-top: solid #DFD8CB  0.7rem; 
+    letter-spacing: 0.8rem;
+    padding: 2rem 1.25rem 1.25rem 1.25rem;
+
+}
