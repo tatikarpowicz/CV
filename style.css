@@ -27,3 +27,18 @@ body {
     padding: 2rem 1.25rem 1.25rem 1.25rem;
 
 }
+.contactdata {
+    font-size: 1.5rem;
+}
+
+#contact {
+    margin-left: 100px;
+}
+a {
+    color: 	#000000;
+    text-decoration: none;
+}
+.social-icons {
+    height: 50px;
+    width: 50px;
+}
