@@ -25,6 +25,7 @@ body {
     border-top: solid #DFD8CB  0.7rem; 
     letter-spacing: 0.8rem;
     padding: 2rem 1.25rem 1.25rem 1.25rem;
+    
 
 }
 .contactdata {
@@ -41,4 +42,14 @@ a {
 .social-icons {
     height: 50px;
     width: 50px;
+}
+#summary {
+    border-bottom: 2px solid #D89099;
+    position: absolute;
+    padding-bottom: 1.2rem;
+}
+#about-me {
+    margin-top: 30px;
+    padding-right: 100px;
+    text-align: justify;
 }
