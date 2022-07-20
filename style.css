@@ -7,7 +7,7 @@ body {
  
 }
 #about {
-    margin: 100px;
+    padding: 100px;
 
 }
 #headings{
@@ -32,9 +32,6 @@ body {
     font-size: 1.5rem;
 }
 
-#contact {
-    margin-left: 100px;
-}
 a {
     color: 	#000000;
     text-decoration: none;
@@ -52,4 +49,10 @@ a {
     margin-top: 30px;
     padding-right: 100px;
     text-align: justify;
+}
+.b-bottom {
+    border-bottom: 3px solid #DFD8CB;
+}
+.b-vertical {
+    border-left: 3px solid #DFD8CB;
 }
