@@ -56,3 +56,6 @@ a {
 .b-vertical {
     border-left: 3px solid #DFD8CB;
 }
+.container-padding {
+    padding: 50px;
+}
