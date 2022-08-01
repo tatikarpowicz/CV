@@ -37,8 +37,8 @@ a {
     text-decoration: none;
 }
 .social-icons {
-    height: 50px;
-    width: 50px;
+    max-height: 50px;
+    max-width: 50px;
 }
 .heading2 {
     border-bottom: 2px solid #D89099;
